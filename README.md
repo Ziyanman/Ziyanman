@@ -1,7 +1,7 @@
 # Hello, world! 👋
 
 ## About Me
-I am Ziyan Manasiya, a passionate web developer and designer. I love working with HTML, CSS, JavaScript, and React to create dynamic user experiences.
+I am Ziyan Manasiya, a passionate web developer and designer. I love working with HTML, CSS, JavaScript, and React to create dynamic user experiences. I'm constantly exploring new ways to improve user interfaces and design.
 
 ## Skills
 - HTML
