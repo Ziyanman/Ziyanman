@@ -11,4 +11,4 @@ I am Ziyan Manasiya, a passionate web developer and designer. I love working wit
 - Git
 
 ## Contact Me
-You can reach me at: [ziyanmanasiya@gmail.com](mailto:ziyanmanasiya@gmail.com)
+You can reach me at: [ziyanmanasiya@gmail.com](mailto:ziyanmanasiya@gmail.com) or [ziyanmk9@gmail.com](mailto:ziyanmk9@gmail.com) 
